@@ -1,0 +1,25 @@
+.nav {
+    background-color:darksalmon;
+  }
+
+  h4 {
+    background-color:lightgrey;
+    height: 500px;
+    margin-left: 0;
+    margin-right: 0;
+
+  }
+
+  h3 {
+    background-color:darkseagreen;
+  }
+
+  .jumbotron {
+    height: 400px;
+    margin: 0;
+    background-image: url("../img/office.jpg");
+    background-size: cover;
+ }
+
+  
+  
